@@ -1,2 +1,2 @@
 # Hello-World
-New programmer's practices
+A new programmer's practices
